@@ -1,6 +1,6 @@
 <!-- Space: Projects -->
-<!-- Parent: BaseTemplate -->
-<!-- Title: Examples BaseTemplate -->
+<!-- Parent: HelloTauri -->
+<!-- Title: Examples HelloTauri -->
 <!-- Label: Examples -->
 <!-- Include: ./../disclaimer.md -->
 <!-- Include: ac:toc -->

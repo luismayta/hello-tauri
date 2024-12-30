@@ -1,7 +1,7 @@
 <!-- Space: Projects -->
-<!-- Parent: BaseTemplate -->
-<!-- Title: EnvVars BaseTemplate -->
-<!-- Label: BaseTemplate -->
+<!-- Parent: HelloTauri -->
+<!-- Title: EnvVars HelloTauri -->
+<!-- Label: HelloTauri -->
 <!-- Label: Project -->
 <!-- Label: EnvVars -->
 <!-- Include: disclaimer.md -->

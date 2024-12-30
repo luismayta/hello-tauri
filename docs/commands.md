@@ -1,7 +1,7 @@
 <!-- Space: Projects -->
-<!-- Parent: BaseTemplate -->
-<!-- Title: Commands BaseTemplate -->
-<!-- Label: BaseTemplate -->
+<!-- Parent: HelloTauri -->
+<!-- Title: Commands HelloTauri -->
+<!-- Label: HelloTauri -->
 <!-- Label: Project -->
 <!-- Label: Commands -->
 <!-- Include: disclaimer.md -->

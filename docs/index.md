@@ -1,1 +1,1 @@
-# Welcome to base-template documentation
+# Welcome to hello-tauri documentation

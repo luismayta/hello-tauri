@@ -68,8 +68,8 @@ dotenv:
   - .env
 
 vars:
-  PROJECT_NAME: base-template
-  ORGANIZATION: hadenlabs
+  PROJECT_NAME: hello-tauri
+  ORGANIZATION: luismayta
   DOCKER_PLATFORM: linux/amd64
   USER: ubuntu
   REVIEWERS: luismayta
