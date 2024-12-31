@@ -156,6 +156,7 @@ tasks:
         [ -e ".env" ] || cp -rf .env.example .env
       - task: python:setup
       - task: python:precommit
+      - task: yarn:setup
       - task: git:setup
 
   test:

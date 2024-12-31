@@ -56,6 +56,10 @@ repos:
         files: ^tf|-|\.(py|env|yml|yaml)$
       - id: check-case-conflict
       - id: check-json
+        exclude: >
+          (?x)^(
+            tsconfig.json$
+          )$
       - id: check-xml
       - id: check-yaml
         args:
